@@ -1,4 +1,4 @@
-echo "# 🤖 Social Media AutoPost Bot
+# 🤖 Social Media AutoPost Bot
 
 A smart AI-powered chatbot that takes a simple text prompt, generates an engaging social media post, and automatically publishes it to your chosen platform (e.g., Twitter, LinkedIn, Instagram).
 
@@ -68,7 +68,4 @@ Output:
 
 Pull requests are welcome! For major changes, please open an issue first.
 
-## 📜 License
 
-[MIT License](LICENSE)
-" > README.md
