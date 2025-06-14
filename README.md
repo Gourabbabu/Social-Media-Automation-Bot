@@ -13,9 +13,9 @@ A smart AI-powered chatbot that takes a simple text prompt, generates an engagin
 ## 🚀 How It Works
 
 1. You give a prompt like:
-   \`\`\`
-   \"Promote my new AI project that creates songs from emotions\"
-   \`\`\`
+   ```
+   "Promote my new AI project that creates songs from emotions"
+   ```
 2. The bot:
    - Generates a caption
    - Suggests or generates an image
@@ -31,31 +31,31 @@ A smart AI-powered chatbot that takes a simple text prompt, generates an engagin
 
 ## 📦 Installation
 
-\`\`\`bash
+``` bash
 git clone https://github.com/yourusername/social-media-autopost-bot.git
 cd social-media-autopost-bot
 pip install -r requirements.txt
-\`\`\`
+```
 
 Set your API keys in a \`.env\` file:
 
-\`\`\`env
+```env
 OPENAI_API_KEY=your_openai_key
 TWITTER_API_KEY=your_twitter_key
 ...
-\`\`\`
+```
 
 ## 🧪 Example Usage
 
-\`\`\`bash
-python bot.py \"Launch announcement for my AI YouTube channel\"
-\`\`\`
+```bash
+python bot.py "Launch announcement for my AI YouTube channel"
+```
 
 Output:
-\`\`\`
+```
 ✅ Post generated and shared on Twitter:
-\"🚀 Just launched my new YouTube series on AI projects that turn emotions into code! Check it out now! #AI #YouTube #Innovation\"
-\`\`\`
+"🚀 Just launched my new YouTube series on AI projects that turn emotions into code! Check it out now! #AI #YouTube #Innovation"
+```
 
 ## 📌 To-Do
 
