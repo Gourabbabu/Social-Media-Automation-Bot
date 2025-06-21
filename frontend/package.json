@@ -1,0 +1,23 @@
+{
+  "name": "tweet-generator-frontend",
+  "version": "1.0.0",
+  "description": "AI Tweet Generator Frontend",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "solid-js": "^1.8.5"
+  },
+  "devDependencies": {
+    "@solidjs/testing-library": "^0.8.5",
+    "@types/node": "^20.9.0",
+    "jsdom": "^23.0.1",
+    "typescript": "^5.2.2",
+    "vite": "^5.0.0",
+    "vite-plugin-solid": "^2.8.0",
+    "vitest": "^0.34.6"
+  }
+}
